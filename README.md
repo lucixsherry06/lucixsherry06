@@ -33,16 +33,16 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-Python • Java • C++
+<img src="https://skillicons.dev/icons?i=python,java,cpp,godot" />
 
 **Cybersecurity Tools**  
 Wireshark • Nmap • Burp Suite • Autopsy • IDA Pro • OSINT Framework
 
 **AI / ML**  
-Scikit-learn • Pandas • NumPy • SHAP • LIME
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
 
 **Frameworks / Tools**  
-Streamlit • Tkinter • Git • GitHub
+<img src="https://skillicons.dev/icons?i=streamlit,tkinter,git,github" />
 
 ---
 
@@ -63,9 +63,18 @@ Streamlit • Tkinter • Git • GitHub
 
 ## 📫 Connect With Me
 
-- 📧 Email: shaheryarali958@gmail.com  
-- 💻 GitHub: https://github.com/lucixsherry06  
-- 🔗 LinkedIn: https://linkedin.com/in/lucixsherry06  
+<p align="center">
+  <a href="mailto:shaheryarali958@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/lucixsherry06">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/lucixsherry06">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 
 ---
 
