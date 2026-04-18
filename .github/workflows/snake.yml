@@ -26,7 +26,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: lucixsherry06
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          palette: github-dark
 
       - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4
