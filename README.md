@@ -56,15 +56,10 @@ Streamlit • Tkinter • Git • GitHub
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucixsherry06&theme=tokyonight" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucixsherry06/lucixsherry06/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lucixsherry06/lucixsherry06/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
